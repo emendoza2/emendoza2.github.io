@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Elijah Mendoza</string>
+	<key>Decription</key>
+	<string>A pixel sprite creator for your projects</string>
+	<key>Project Name</key>
+	<string>Pixel Art</string>
+	<key>Version</key>
+	<string>1.0.5</string>
+</dict>
+</plist>
