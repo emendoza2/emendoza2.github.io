@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Explosion</string>
+		<string>zLevel</string>
+		<string>Button</string>
+		<string>Info</string>
+		<string>Main</string>
+		<string>Player</string>
+		<string>World</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+	<key>Developer</key>
+	<string>Elijah Mendoza</string>
+	<key>Version</key>
+	<string>0.0.1</string>
+</dict>
+</plist>
