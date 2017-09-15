@@ -1,7 +1,7 @@
 # EasyCopy - easily copy gists
 ## Requirements
 iOS Safai (iSafari)
-That's it!
+That's it (unfortunately, does not work with embedded Codea browser)!
 
 ## Getting started
 1. Copy this code: `javascript:document.body.contenteditable=true`
